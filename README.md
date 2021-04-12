@@ -18,6 +18,8 @@ This project introduce to (neural networks course) for a fourth year in Shoubra 
 supervised by [Dr. May Ahmed Salama Mohamed](https://bu.edu.eg/staff/maymohamed3)
 
 ---
-[Project Code 👨‍💻](https://nbviewer.jupyter.org/github/ahmedatef1610/Predict-Diabetes-with-Machine-Learning/blob/main/project.ipynb)
 
 [Project Presentation 📽️](https://docs.google.com/presentation/d/1XmbMf8zf_zui8ABDKjoeXePuB0JZEFArA_45YLeElOk/edit?usp=sharing)
+
+[Project Code 👨‍💻](https://nbviewer.jupyter.org/github/ahmedatef1610/Predict-Diabetes-with-Machine-Learning/blob/main/project.ipynb)
+
