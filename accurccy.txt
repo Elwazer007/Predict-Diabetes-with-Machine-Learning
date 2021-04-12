@@ -1,0 +1,22 @@
+print(f'Accuracy of K-NN classifier on training set: {knn.score(x_train, y_train):.3f}')
+print(f'Accuracy of K-NN classifier on test set: {knn.score(x_test, y_test):.3f}')
+
+print(f"Accuracy on training set: {tree.score(x_train, y_train):.3f}")
+print(f"Accuracy on test set: {tree.score(x_test, y_test):.3f}")
+
+print(f"Accuracy on training set: {tree2.score(x_train, y_train):.3f}")
+print(f"Accuracy on test set: {tree2.score(x_test, y_test):.3f}")
+
+print(f"Accuracy on training set: {mlp.score(x_train, y_train):.2f}")
+print(f"Accuracy on test set: {mlp.score(x_test, y_test):.2f}")
+
+print(f"Accuracy on training set: {mlp2.score(x_train, y_train):.3f}")
+print(f"Accuracy on test set: {mlp2.score(x_test, y_test):.3f}")
+
+print(f"Accuracy on training set: {mlp3.score(X_train_scaled, y_train):.3f}")
+print(f"Accuracy on test set: {mlp3.score(X_test_scaled, y_test):.3f}")
+
+
+print(f"Accuracy on training set: {mlp4.score(X_train_scaled, y_train):.3f}")
+print(f"Accuracy on test set: {mlp4.score(X_test_scaled, y_test):.3f}")
+
