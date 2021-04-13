@@ -8,7 +8,7 @@ With this in mind today, In this project, I will show you how you can use machin
 
 ---
 
-This project introduce to (neural networks course) for a fourth year in Shoubra Faculty of Engineering. 
+This project introduces to (neural networks course) for a fourth year in Shoubra Faculty of Engineering.
 
 - Team Member:
     1. [Ahmed Mohamed Atef](https://github.com/ahmedatef1610)
